@@ -1,0 +1,62 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - AlamofireNetworkActivityIndicator (2.2.0):
+    - Alamofire (~> 4.5)
+  - Braintree (4.9.4):
+    - Braintree/Card (= 4.9.4)
+    - Braintree/Core (= 4.9.4)
+    - Braintree/PayPal (= 4.9.4)
+    - Braintree/UI (= 4.9.4)
+  - Braintree/Card (4.9.4):
+    - Braintree/Core
+  - Braintree/Core (4.9.4)
+  - Braintree/PayPal (4.9.4):
+    - Braintree/Core
+    - Braintree/PayPalOneTouch
+  - Braintree/PayPalDataCollector (4.9.4):
+    - Braintree/Core
+    - Braintree/PayPalUtils
+  - Braintree/PayPalOneTouch (4.9.4):
+    - Braintree/Core
+    - Braintree/PayPalDataCollector
+    - Braintree/PayPalUtils
+  - Braintree/PayPalUtils (4.9.4)
+  - Braintree/UI (4.9.4):
+    - Braintree/Card
+    - Braintree/Core
+  - Braintree/UnionPay (4.9.4):
+    - Braintree/Card
+    - Braintree/Core
+  - BraintreeDropIn (5.2.3):
+    - BraintreeDropIn/DropIn (= 5.2.3)
+  - BraintreeDropIn/DropIn (5.2.3):
+    - Braintree/Card (~> 4.0)
+    - Braintree/Core (~> 4.0)
+    - Braintree/UnionPay (~> 4.0)
+    - BraintreeDropIn/UIKit
+  - BraintreeDropIn/UIKit (5.2.3)
+  - CocoaLumberjack/Default (3.3.0)
+  - CocoaLumberjack/Swift (3.3.0):
+    - CocoaLumberjack/Default
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireNetworkActivityIndicator
+  - Braintree
+  - BraintreeDropIn
+  - CocoaLumberjack/Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  AlamofireNetworkActivityIndicator: 81e1630e7cfed22a4e4e82a174c59e651dc4f8ca
+  Braintree: de7e58b8df95bf6514813cbc510578e3737b1c3b
+  BraintreeDropIn: 20109bea730b9bd31d71792ca84545265b7d27e4
+  CocoaLumberjack: 3c8c74683302f9012bb168e1c4b7ae3c0b558431
+
+PODFILE CHECKSUM: 2304230dc2692295a0892cf82eb3678e4eaeb5a0
+
+COCOAPODS: 1.3.1

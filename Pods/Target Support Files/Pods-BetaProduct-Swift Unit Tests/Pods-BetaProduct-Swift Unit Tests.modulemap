@@ -1,0 +1,6 @@
+framework module Pods_BetaProduct_Swift_Unit_Tests {
+  umbrella header "Pods-BetaProduct-Swift Unit Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,18 @@
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "0OA-ct-Kad"; */
+"0OA-ct-Kad.placeholder" = "Mobile Number";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "7MU-cI-uWq"; */
+"7MU-cI-uWq.normalTitle" = "Forgot Password?";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "9gw-ll-2aw"; */
+"9gw-ll-2aw.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "PFS-w1-acE"; */
+"PFS-w1-acE.placeholder" = "Full Name";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "RHR-bU-cgx"; */
+"RHR-bU-cgx.normalTitle" = "LOG IN";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "b0E-U9-fwv"; */
+"b0E-U9-fwv.placeholder" = "Email";
